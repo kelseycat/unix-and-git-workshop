@@ -1,0 +1,6 @@
+mv requires two paths, separated by a space. 1st is file to move, 2nd is destination
+     allows for moving files from place to place
+     man mv for all flags
+
+when naming use dashes - or underscores _ not spaces
+

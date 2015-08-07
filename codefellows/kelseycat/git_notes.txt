@@ -1,0 +1,5 @@
+git init command will initialize a new empty git repository
+     run this command only 1 time per project!
+
+git status command is used to check the status of your repository and see what is going on
+     unlike unix, git tells you when you are successful
